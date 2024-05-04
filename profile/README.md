@@ -8,7 +8,7 @@ En TryCatch Factory, nos especializamos en el desarrollo de software a medida, o
 
 ## Servicios
 
-- **Desarrollo Personalizado**: Creamos aplicaciones que se ajustan específicamente a tus necesidades.
-- **Consultoría Tecnológica**: Ofrecemos asesoramiento experto para optimizar tus procesos y tecnologías.
-- **Soporte y Mantenimiento**: Garantizamos que tus sistemas funcionen sin interrupciones con nuestro soporte continuo.
+- **✨Desarrollo Personalizado**: Creamos aplicaciones que se ajustan específicamente a tus necesidades.
+- **✨Consultoría Tecnológica**: Ofrecemos asesoramiento experto para optimizar tus procesos y tecnologías.
+- **✨Soporte y Mantenimiento**: Garantizamos que tus sistemas funcionen sin interrupciones con nuestro soporte continuo.
 
